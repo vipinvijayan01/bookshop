@@ -2,7 +2,7 @@ using { Currency, managed, sap } from '@sap/cds/common';
 
 namespace sap.capire.bookshop;
 
-// entities created
+// entities created 1
 
 entity Books : managed {
     key ID       : Integer               @title : 'ID';

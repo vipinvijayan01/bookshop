@@ -2,6 +2,8 @@ using { Currency, managed, sap } from '@sap/cds/common';
 
 namespace sap.capire.bookshop;
 
+// entities created
+
 entity Books : managed {
     key ID       : Integer               @title : 'ID';
         title    : localized String(111) @title : 'Title';

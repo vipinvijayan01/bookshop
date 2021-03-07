@@ -24,3 +24,4 @@ File or Folder | Purpose
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
 # bookshop
+# bookshop added from the cloned project.
